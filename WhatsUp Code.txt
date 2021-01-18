@@ -7,3 +7,4 @@ Author: Lokesh
 2. Emoji
 3. Strickers
 4. Voice messages
+5. Voice Call
