@@ -8,3 +8,5 @@ Author: Lokesh
 3. Strickers
 4. Voice messages
 5. Voice Call
+6. Audio Call
+7. Video Call
